@@ -10,10 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Siesta Bot❤️",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "UIDFacebook"
+        "100008291001052"
     ],
     "DATABASE": {
         "sqlite": {
